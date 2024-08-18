@@ -1,0 +1,8 @@
+# 整数1つのinput
+N=int(input())
+# 整数が横一列で入力される場合。リストに格納する
+A=list(map(int,input().split()))
+# 整数が横一列で入力される場合。リストに格納せず単体の整数として管理する場合
+N, M = map(int, input().split())
+# 配列の各要素を、分解して1つずつ出力
+print(*a)
