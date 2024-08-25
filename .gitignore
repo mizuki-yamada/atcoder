@@ -165,3 +165,6 @@ cython_debug/
 input.txt
 answer.py
 command.txt
+
+# gitのメアド変更するように作ったファイル
+mailmap
