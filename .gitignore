@@ -168,3 +168,6 @@ command.txt
 
 # gitのメアド変更するように作ったファイル
 mailmap
+
+# idea
+./.idea
